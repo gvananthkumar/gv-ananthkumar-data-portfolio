@@ -1,40 +1,43 @@
+# 📊 Data & MIS Analytics Portfolio
 
-# gv-ananthkumar-data-portfolio
+Welcome to my professional portfolio repository! This collection showcases my skills in data analysis, financial reporting, data cleaning, and automation using **Python, SQL, Power BI, and Advanced Excel**.
 
-Data analytics + accounting portfolio featuring SQL analyses, financial and operational dashboards, Python notebooks, and project writeups focused on business intelligence, accounting workflows, and data storytelling.
+---
 
-## About this portfolio
+## 📂 Repository Structure
 
-This repository is a growing collection of hands-on analytics and accounting projects that combine:
+* **`notebooks/`** — Interactive Jupyter Notebooks containing data analysis workflows, data transformations, and financial reporting logic.
+* **`scripts/`** — Reusable Python scripts for data extraction, automation, and processing.
+* **`sql/`** — SQL queries and database scripts designed for financial and operational data analysis.
+* **`requirements.txt`** — Python dependencies required to run the scripts.
 
-- Python for data cleaning, analysis, and automation
-- SQL for data extraction and exploratory analysis
-- Jupyter notebooks for reproducible analysis
-- Accounting and finance-focused case studies
-- Business writeups and insights for decision-making
+---
 
-The goal is to build a practical portfolio that demonstrates analytical thinking, financial domain understanding, and the ability to turn raw data into clear business conclusions.
+## 🚀 Interactive Notebooks
 
-## Portfolio focus areas
+You can view and execute these Python notebooks directly in your browser without any local setup using Google Colab:
 
-- Financial statement analysis
-- Cost and management accounting
-- Accounting process automation
-- Data quality and reconciliation
-- KPI and operational reporting
-- Business dashboards and presentation-ready insights
-- SQL query design and data validation
+* **[Notebook Title 1](https://colab.research.google.com/github/gvananthkumar/gv-ananthkumar-data-portfolio/blob/main/notebooks/your-notebook-1.ipynb)** 
+  *(Add a brief 1-line description of what this notebook does, e.g., "Financial data cleaning & automated reporting workflow using Pandas")*
 
-## Repository structure
+* **[Notebook Title 2](https://colab.research.google.com/github/gvananthkumar/gv-ananthkumar-data-portfolio/blob/main/notebooks/your-notebook-2.ipynb)** 
+  *(Add a brief description here)*
 
-```text
-gv-ananthkumar-data-portfolio/
-├── notebooks/                 # Jupyter notebooks and exploratory analysis
-├── sql/                       # SQL scripts and queries
-├── data/                      # sample or cleaned datasets (if included)
-├── reports/                   # writeups, summaries, and presentation notes
-├── dashboards/                 # dashboard files or screenshots
-├── README.md
-├── .gitignore
-├── LICENSE
-└── requirements.txt           # optional environment dependencies
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gvananthkumar/gv-ananthkumar-data-portfolio/blob/main/notebooks/your-notebook-1.ipynb)
+
+---
+
+## 🛠️ Tech Stack & Skills
+* **Languages & Querying:** Python (Pandas, NumPy), SQL
+* **Business Intelligence & Reporting:** Power BI (DAX), Advanced Excel (Power Query, M Code)
+* **Domain Focus:** Financial Analysis, MIS Reporting, Cost Accounting, Data Transformation
+
+---
+
+## ⚙️ How to Run Locally
+
+If you want to run the scripts on your local machine:
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/gvananthkumar/gv-ananthkumar-data-portfolio.git](https://github.com/gvananthkumar/gv-ananthkumar-data-portfolio.git)
